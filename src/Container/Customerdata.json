@@ -1,0 +1,106 @@
+{
+  "customer": [
+    {
+      "Account": "23865869085",
+      "Balance": 5627,
+      "Email": "Durga@gmail.com",
+      "firstname": "Durga ",
+      "id": 1,
+      "lastname": "Prasad",
+      "userId": 1
+    },
+    {
+      "Account": "23865869085",
+      "Balance": -227,
+      "Email": "Lucky@gmail.com",
+      "firstname": "Deepak",
+      "id": 2,
+      "lastname": "Roy",
+      "userId": 1
+    },
+    {
+      "Account": "23865869085",
+      "Balance": 245,
+      "Email": "deepu@gmail.com",
+      "firstname": "Deependra",
+      "id": 3,
+      "lastname": "Singh",
+      "userId": 1
+    },
+    {
+      "Account": "23865869085",
+      "Balance": 31903,
+      "Email": "kaifuuuu@gmail.com",
+      "firstname": "Kaif",
+      "id": 4,
+      "lastname": "Mohammd.",
+      "userId": 1
+    },
+    {
+      "Account": "23865869085",
+      "Balance": "32800",
+      "Email": "pahujaay@gmail.com",
+      "firstname": "Ayush",
+      "id": 5,
+      "lastname": "Pahuja",
+      "userId": 1
+    },
+    {
+      "Account": "23865869085",
+      "Balance": "32800",
+      "Email": "BBg@gmail.com",
+      "firstname": "Mahesh",
+      "id": 6,
+      "lastname": "Lamba",
+      "userId": 1
+    },
+    {
+      "Account": "23865869085",
+      "Balance": "32800",
+      "Email": "akibb696969@gmail.com",
+      "firstname": "Akib",
+      "id": 7,
+      "lastname": "MOhammd.",
+      "userId": 1
+    },
+    {
+      "Account": "23865869085",
+      "Balance": "32800",
+      "Email": "Sandy@gmail.com",
+      "firstname": "Sandeep",
+      "id": 8,
+      "lastname": "Gautum",
+      "userId": 1
+    },
+    {
+      "Account": "23865869085",
+      "Balance": "32800",
+      "Email": "Pandit_jii@gmail.com",
+      "firstname": "Divyanshu",
+      "id": 9,
+      "lastname": "Upadhya",
+      "userId": 1
+    },
+    {
+      "Account": "23865869085",
+      "Balance": "32800",
+      "Email": "NavNeet_Jha2@gmail.com",
+      "firstname": "Navneet",
+      "id": 10,
+      "lastname": "Jha2",
+      "userId": 1
+    }
+  ],
+  "transection": {
+    "0": {
+      "amount": "3000",
+      "recieverName": "monu yadav",
+      "senderName": "durga prasad yadav"
+    },
+    "-MyWu_NMXoAR6oiBQUgQ": {
+      "Balance": "123",
+      "recieverName": "Deependra Singh",
+      "senderName": "Lucky yadav"
+    }
+  }
+}
